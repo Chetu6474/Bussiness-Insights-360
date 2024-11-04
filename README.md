@@ -2,6 +2,8 @@
 
 This repository showcases the **Business Insights 360** Power BI project, designed to provide a comprehensive view into customer performance and product success across multiple dimensions. Through this project, I explored key metrics and performance indicators to support data-driven decision-making and enhance business outcomes.
 
+### [Explore the Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmVjMGNhNjktNzFmNi00MWMyLWJkZDQtYTQ2MjVmMmE2ZmRkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 ## Project Overview
 The **Business Insights 360** dashboard includes two primary analyses:
 
